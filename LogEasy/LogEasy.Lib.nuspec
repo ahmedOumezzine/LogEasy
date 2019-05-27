@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>LogEasy.Lib</id>
+    <version>0.0.1</version>
+    <title>LogEasy.Lib</title>
+    <authors>Ahmed Oumezzine</authors>
+    <owners>Ahmed Oumezzine</owners>
+    <projectUrl>https://github.com/ahmedOumezzine/LogEasy</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description> ActionResult - user’s activity logging in asp.net coremvc application | c#</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>LogEasy Lib ASP ASP.NET MVC</tags>
+	 <dependencies>
+            <dependency id="EntityFramework" version="6.1.0" />
+            <dependency id="Microsoft.AspNet.Identity.Core" version="2.2.1" />
+            <dependency id="Microsoft.AspNet.Identity.EntityFramework" version="2.2.1" />
+        </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Debug\LogEasy.dll" target="lib\net461"  />
+    </files>
+  
+</package>
