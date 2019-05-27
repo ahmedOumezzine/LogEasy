@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogEsay", "LogEsay\LogEsay.csproj", "{257DDCC1-8BD2-44B3-BB1C-A7E3E3786C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogEasy.Lib", "LogEasy\LogEasy.Lib.csproj", "{BF339C30-944B-4D06-A7C8-B4A1F52BF19F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257DDCC1-8BD2-44B3-BB1C-A7E3E3786C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257DDCC1-8BD2-44B3-BB1C-A7E3E3786C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257DDCC1-8BD2-44B3-BB1C-A7E3E3786C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257DDCC1-8BD2-44B3-BB1C-A7E3E3786C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF339C30-944B-4D06-A7C8-B4A1F52BF19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF339C30-944B-4D06-A7C8-B4A1F52BF19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF339C30-944B-4D06-A7C8-B4A1F52BF19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF339C30-944B-4D06-A7C8-B4A1F52BF19F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06FD4A4A-DE18-4A29-8E7A-9C0BABA61743}
+	EndGlobalSection
+EndGlobal
